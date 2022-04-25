@@ -4,4 +4,6 @@
 Repositorio de `prueba`
 ```shell
 input file
+hola 
+git ignore
 ```
